@@ -11,6 +11,9 @@
   "scripts": {
     "test": "node src/index.js"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "author": "me",
   "license": "ISC",
   "description": ""
